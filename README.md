@@ -7,7 +7,7 @@
   
   *completed the easy tasks using basic python*
   
-##Medium Task  
+## Medium Task  
 **IRIS RECOGNIZER**  
   
   *competed the task*
